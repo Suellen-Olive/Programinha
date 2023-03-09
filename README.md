@@ -1,2 +1,2 @@
 # Programinha
-A sociedade é complexa e melancolica é sua definição de existencia.
+Imagination is more important than knowledge.
