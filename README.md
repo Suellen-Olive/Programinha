@@ -1,2 +1,2 @@
 # Programinha
-Imagination is more important than knowledge.
+"Imagination is more important than knowledge."
